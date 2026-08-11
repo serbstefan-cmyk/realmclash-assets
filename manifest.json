@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "tag": "voice-v1",
+  "packs": {
+    "es": { "asset": "es.zip", "bytes": 7706809, "sha256": "919779885d909bf86bd7562ae7673b478655ef711063dc7bd34861fb220b16c8", "clips": 199 },
+    "pl": { "asset": "pl.zip", "bytes": 7431135, "sha256": "a4e50f3f8e2158f6f82f8d908a82cea3260b1560b308de590b8efb2d080f4836", "clips": 199 },
+    "fr": { "asset": "fr.zip", "bytes": 7188013, "sha256": "06d706bf940951e6e9246c3c9535235f1f6a2db7d18f744604268d5f70224551", "clips": 199 },
+    "pt-BR": { "asset": "pt-BR.zip", "bytes": 7469159, "sha256": "c97fc5f304119aa62d9ce0fed6af2fa36b765fbd8ddfc68c71730fe8b23cb11b", "clips": 199 },
+    "pt-PT": { "asset": "pt-PT.zip", "bytes": 7538939, "sha256": "7cde4877de4fdbee78771415400e93015386f8692ec52b6683092434441550d3", "clips": 199 },
+    "de": { "asset": "de.zip", "bytes": 7139024, "sha256": "ea88d4a745f332175c919717f6f93a43c8b8b9b880ba23ae12161d64eb7b3a83", "clips": 199 }
+  }
+}
