@@ -2,11 +2,13 @@
   "version": 1,
   "tag": "voice-v1",
   "packs": {
-    "es": { "asset": "es.zip", "bytes": 8355028, "sha256": "c5f5a7d8a1269081f63ebba11c5769d6b5fc4b4f8baa9f2f3008f7058ae18237", "clips": 211 },
-    "pl": { "asset": "pl.zip", "bytes": 8083815, "sha256": "4d9ff7837eaa0c469f43338bf81c596c8c3945d1f47c97abe792a0376a6377ec", "clips": 211 },
-    "fr": { "asset": "fr.zip", "bytes": 7866624, "sha256": "2fbf91f9f9e71739d9882be7ccdc47fc238aa72a9be75807470b3a75c86a1ca5", "clips": 211 },
-    "pt-BR": { "asset": "pt-BR.zip", "bytes": 8154591, "sha256": "721627755ed8c4e868ed8867f8d5475d812a73d2896d380019596afa081b916a", "clips": 211 },
-    "pt-PT": { "asset": "pt-PT.zip", "bytes": 8262575, "sha256": "4da3d5e9ee251a7ae1a8e6f834cf1f9ed2ee85e6db44bc3040dda3d47f8e598f", "clips": 211 },
-    "de": { "asset": "de.zip", "bytes": 7898733, "sha256": "619b94244e25ca039daf69ee3cde0394058af77cc2fb53a2aceabd269bf9d73c", "clips": 211 }
+    "es": { "asset": "es.zip", "bytes": 8255541, "sha256": "61167a5bbae5e3d0861424d9dafd1e3c52f7d7b75780cb2da53e7ba07cbd0738", "clips": 211 },
+    "pl": { "asset": "pl.zip", "bytes": 7963386, "sha256": "03438260f573e7b549774307c25271affb58ad7e3f99252ba0044a769dbc5ccf", "clips": 211 },
+    "fr": { "asset": "fr.zip", "bytes": 7827032, "sha256": "137d601ee0918d8d93887c13add55edb357e8249bdf68fd5425ce564475fce86", "clips": 211 },
+    "pt-BR": { "asset": "pt-BR.zip", "bytes": 8035278, "sha256": "a81b5bcf555e2a1d75157a73308d517a17620272bcee2a26a5b03fc278f2b8c2", "clips": 211 },
+    "pt-PT": { "asset": "pt-PT.zip", "bytes": 8170484, "sha256": "a0e521e920c5f9d560ddb53091c1aaaa4a0cb549d5f91a249d0bd20b8334407a", "clips": 211 },
+    "de": { "asset": "de.zip", "bytes": 7825039, "sha256": "114c981336a16d5fd9a749a9da953324fc0ea823b9f3964b5182acfac5f5c922", "clips": 211 },
+    "ja": { "asset": "ja.zip", "bytes": 8666186, "sha256": "96c65956c319f47c6e0c7066e83e300a7dfc34683db42a9771f2fd05b3c75e3b", "clips": 211 },
+    "it": { "asset": "it.zip", "bytes": 8309668, "sha256": "6d70e551bef6345dead8068a936fc7fe2788cdd9eee2f9be26e547525985856c", "clips": 211 }
   }
 }
