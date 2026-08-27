@@ -1,0 +1,70 @@
+{
+  "packs": {
+    "beast": {
+      "asset": "beast.zip",
+      "bytes": 2354440,
+      "sha256": "5b22f1951a61d02a4762552423f7c952b40c706524b9f7ab3677b9b475318318",
+      "files": 34
+    },
+    "demon": {
+      "asset": "demon.zip",
+      "bytes": 2400556,
+      "sha256": "27e09ab605d7e5ec4f40c1c81a64d0da75d486dd8832198c002edf70dd3c0822",
+      "files": 32
+    },
+    "dwarf": {
+      "asset": "dwarf.zip",
+      "bytes": 2085210,
+      "sha256": "bb35f859403f4253049671068506993feb7b1309b0f3ee576f1dde333cbf77dd",
+      "files": 31
+    },
+    "elf": {
+      "asset": "elf.zip",
+      "bytes": 2422538,
+      "sha256": "ec2cb1022f770a503c5543513245a3f541a1df1eae2df9f064d968a3c58eaf66",
+      "files": 32
+    },
+    "gnome": {
+      "asset": "gnome.zip",
+      "bytes": 2406930,
+      "sha256": "39f716341cfb8c7bba063790a872285aff8899e77f56e4bb8f9376d73d3b296c",
+      "files": 33
+    },
+    "human": {
+      "asset": "human.zip",
+      "bytes": 2043806,
+      "sha256": "a62e780c3968492ebe90f9b202cd7cde5d3acaf54b535e0826209204d9b14d96",
+      "files": 33
+    },
+    "mercenary": {
+      "asset": "mercenary.zip",
+      "bytes": 2071864,
+      "sha256": "69069f4d69d59e2e6b450df6047d004eb0fbc15b67a62b7330b14da35027fd99",
+      "files": 31
+    },
+    "orc": {
+      "asset": "orc.zip",
+      "bytes": 2119806,
+      "sha256": "2d917c80b03bf801d53c8143469ba5f88318b80d4f264a9b18b84b7b2a43f622",
+      "files": 33
+    },
+    "pirate": {
+      "asset": "pirate.zip",
+      "bytes": 2469136,
+      "sha256": "18170fe66b7f6f7db1edc5240af112113a4049f5f63112bda87f5a2e788f1008",
+      "files": 34
+    },
+    "sorcerer": {
+      "asset": "sorcerer.zip",
+      "bytes": 2443770,
+      "sha256": "4162082b21e5a493ef5bad96f137efefbbf602727c6f767b07120ca864782c1f",
+      "files": 32
+    },
+    "undead": {
+      "asset": "undead.zip",
+      "bytes": 2382876,
+      "sha256": "c6be378e89868e2200725485fa9ef81d7a88259b1ffca6d5ddd378582cea9382",
+      "files": 34
+    }
+  }
+}
