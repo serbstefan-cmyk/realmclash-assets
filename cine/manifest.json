@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "packs": {
+    "boss_epics": {
+      "asset": "boss_epics.zip",
+      "bytes": 4231602,
+      "sha256": "68e10caed2212eb3b14dd96bb74672f15ba1ff2c6650eaeca08a9ac05109d5c5",
+      "files": 55
+    }
+  }
+}
