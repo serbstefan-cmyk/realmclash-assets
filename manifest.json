@@ -10,8 +10,8 @@
     },
     "pl": {
       "asset": "pl.zip",
-      "bytes": 8379087,
-      "sha256": "c61694b829047cdd2c4e260ddb962ea9ff621813fa1a0cf77aa903999616015d",
+      "bytes": 8374698,
+      "sha256": "5818905eeb49300dc388b992ed983548b3146f230a8f96a1c2c0dd7cd3a42a7b",
       "clips": 216
     },
     "fr": {
@@ -22,14 +22,14 @@
     },
     "pt-BR": {
       "asset": "pt-BR.zip",
-      "bytes": 8440531,
-      "sha256": "cd25e845d6d2dd675eb71bd6e8463b846d23d38bcac6b67bc974902a88055b7c",
+      "bytes": 8437396,
+      "sha256": "a5684ed8f2c69a1f890feb68873a1da448143de779d9f549a70cbdf0a8757d81",
       "clips": 216
     },
     "pt-PT": {
       "asset": "pt-PT.zip",
-      "bytes": 8570302,
-      "sha256": "58ad4600c0da60b6b3bb8539e3205d2a4044fe218edeb06915d3691f1ab2229c",
+      "bytes": 8567794,
+      "sha256": "758004d92ab3321ebb9fdefdab236b775d7d255e81e3aaa2f8cda7837b9fb0bc",
       "clips": 216
     },
     "de": {
