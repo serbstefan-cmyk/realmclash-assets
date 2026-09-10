@@ -65,6 +65,12 @@
       "bytes": 2382876,
       "sha256": "c6be378e89868e2200725485fa9ef81d7a88259b1ffca6d5ddd378582cea9382",
       "files": 34
+    },
+    "vampire": {
+      "asset": "vampire.zip",
+      "bytes": 2893962,
+      "sha256": "b14b02c8cacfa30170ec3e8f20eded278b31b305de211c3df659e77b1ff2faed",
+      "files": 37
     }
   }
 }
