@@ -50,9 +50,9 @@
     },
     "pirate": {
       "asset": "pirate.zip",
-      "bytes": 2469136,
-      "sha256": "18170fe66b7f6f7db1edc5240af112113a4049f5f63112bda87f5a2e788f1008",
-      "files": 34
+      "bytes": 3594146,
+      "sha256": "6a023e9c9b5d076bbdf039b26bf1cc15ab45a7936324a1c79199e4a90d21cd9e",
+      "files": 46
     },
     "sorcerer": {
       "asset": "sorcerer.zip",
@@ -62,9 +62,9 @@
     },
     "undead": {
       "asset": "undead.zip",
-      "bytes": 2382876,
-      "sha256": "c6be378e89868e2200725485fa9ef81d7a88259b1ffca6d5ddd378582cea9382",
-      "files": 34
+      "bytes": 3384418,
+      "sha256": "c884c75582512eadac721da54e5de9c8c1042abb0ba000958d0bd35a0535e44c",
+      "files": 44
     },
     "vampire": {
       "asset": "vampire.zip",
