@@ -38,9 +38,9 @@
     },
     "mercenary": {
       "asset": "mercenary.zip",
-      "bytes": 2071864,
-      "sha256": "69069f4d69d59e2e6b450df6047d004eb0fbc15b67a62b7330b14da35027fd99",
-      "files": 31
+      "bytes": 2538642,
+      "sha256": "2d9c6ef310a5642a753f7e750d4fc7ee56e12cc08d4c8e7b856865f0eb0ee4e1",
+      "files": 33
     },
     "orc": {
       "asset": "orc.zip",
