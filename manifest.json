@@ -4,50 +4,50 @@
   "packs": {
     "es": {
       "asset": "es.zip",
-      "bytes": 16144343,
-      "sha256": "08bce2ead93e9bf79d7825e55bc2ce558642e741289897936d6c9bc5a94bdb51",
+      "bytes": 16150404,
+      "sha256": "7788512a14483465148faf2de4850c9ee86647011abac0706a48a17099ce94b1",
       "clips": 306
     },
     "pl": {
       "asset": "pl.zip",
-      "bytes": 15798062,
-      "sha256": "5970aa1277103498b9ee5286f91408a146c0e5fe413ad8aafaf5be7080fb0cb7",
+      "bytes": 15800570,
+      "sha256": "2ce2f5694589b592e257c72eb84aa00fc4973a421de42f0b1e52c2af4d6e977f",
       "clips": 306
     },
     "fr": {
       "asset": "fr.zip",
-      "bytes": 15220973,
-      "sha256": "0613af50e0dcdfd5ec15403ee3705896a4461702a883a706f9b8a0f9dfa600dd",
+      "bytes": 15224735,
+      "sha256": "8f3447e0b1c758604d6aad6de0b9d12ddabd0181552751d748089dc458540353",
       "clips": 306
     },
     "pt-BR": {
       "asset": "pt-BR.zip",
-      "bytes": 15639027,
-      "sha256": "0d5ae3f9a6b3a3965edb654ed0385c651631481f55fdec28edbed57c71410e38",
+      "bytes": 15645296,
+      "sha256": "312e4c17cde179d462142d9d141c120951e48c55c4a9234a8e032353b7367c41",
       "clips": 306
     },
     "pt-PT": {
       "asset": "pt-PT.zip",
-      "bytes": 15737460,
-      "sha256": "8a27c717f7f8c70a50d33055b1d0ee70888b00c03c505a2b94f8a167aad185b9",
+      "bytes": 15748745,
+      "sha256": "75a0b4712ceeb39af2977cc6e44303f8d6314ebb7753d5f44e485d53bd22fe56",
       "clips": 306
     },
     "de": {
       "asset": "de.zip",
-      "bytes": 15805998,
-      "sha256": "c5f3872adffed8316b09b22af248203063fab13aee792665ec5a9373b185e3b5",
+      "bytes": 15800774,
+      "sha256": "4bb73e378cd74d5b541961bc1b4a8e2758089cfa1952a21bb9d79bd74d8e71ec",
       "clips": 306
     },
     "ja": {
       "asset": "ja.zip",
-      "bytes": 17715230,
-      "sha256": "9c92432d8359b73941863adfa2de8eb8e131e24429911f15ef5f6a086cb24a15",
+      "bytes": 17728813,
+      "sha256": "a500c9d66b7abc458becbcc637afed294a6ca40c1b6d9548a6ef9d13cd506437",
       "clips": 306
     },
     "it": {
       "asset": "it.zip",
-      "bytes": 15973183,
-      "sha256": "da8344fb34c8184811c442f2ba6c0723f1021fd8b4b098f090e073ee29b0f3af",
+      "bytes": 15975064,
+      "sha256": "7ffad77ce0ba92fe3e899720a0263081a8ce1c5cf1d2d84be79c403cd2b344d6",
       "clips": 306
     }
   }

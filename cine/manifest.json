@@ -3,8 +3,8 @@
   "packs": {
     "boss_epics": {
       "asset": "boss_epics.zip",
-      "bytes": 5547871,
-      "sha256": "155e3f2d4dc87ddd181f058716d45ca98e2f07559d2152d64aab6fde2eec67c5",
+      "bytes": 5545990,
+      "sha256": "86209cb94e2beacaa84661f83f157440647d55d4bcfb7343e90c66bd65f7db77",
       "files": 77
     }
   }
