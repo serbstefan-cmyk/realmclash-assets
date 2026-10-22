@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "packs": {
+    "factions": {
+      "asset": "factions.zip",
+      "bytes": 20418730,
+      "sha256": "c34bd87f427534960877283c8cfa11ca912e7dd14c8e055099fd72e6e192489f",
+      "files": 11
+    }
+  }
+}
