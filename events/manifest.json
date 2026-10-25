@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "packs": {
+    "events": {
+      "sha256": "e18fd32933584475a1b5ebc35041395e44050f277cbced4f6ce4e70dd5fcc778",
+      "bytes": 92654430,
+      "files": 760,
+      "parts": [
+        {
+          "asset": "events_1.zip",
+          "bytes": 25669528,
+          "sha256": "453a3c68a449f755680629a3b10ab8beb719ee43f7ea2b0104a9fc9d04541a5b",
+          "files": 210
+        },
+        {
+          "asset": "events_2.zip",
+          "bytes": 25611800,
+          "sha256": "53659a784f61f76c2aa87ba363560bc694a1b3fedde9550c40d451d25b8385f6",
+          "files": 210
+        },
+        {
+          "asset": "events_3.zip",
+          "bytes": 25489208,
+          "sha256": "48053240bae25b689c0446abbdc5152e5c8eff74232488d8d45bf648df7af265",
+          "files": 210
+        },
+        {
+          "asset": "events_4.zip",
+          "bytes": 15883894,
+          "sha256": "62325ca906d1943c7fab715913334ce3116700f650ce49612afaa1b0c2c837a3",
+          "files": 130
+        }
+      ]
+    }
+  }
+}
