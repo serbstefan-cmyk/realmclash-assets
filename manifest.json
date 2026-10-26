@@ -4,51 +4,51 @@
   "packs": {
     "es": {
       "asset": "es.zip",
-      "bytes": 23859352,
-      "sha256": "f11d0c4bee3525086c203bc1e41eddea513826c5a5d7a1d570ee3076fad3e6bc",
-      "clips": 444
+      "bytes": 22515638,
+      "sha256": "2558d48b061c76ce58e81fbf6356cff015a4a34c5341e80ee0987f8f8d02c8f1",
+      "clips": 429
     },
     "pl": {
       "asset": "pl.zip",
-      "bytes": 23164487,
-      "sha256": "10eb80f9ffeae72b4de869f2059c985a8c6c5a594e9679bdf2d4542346f5c6ab",
-      "clips": 444
+      "bytes": 21826415,
+      "sha256": "a99b6321d955af929753937e05a5ac482987c7ed4ebf3796e3516c403f090ae2",
+      "clips": 429
     },
     "fr": {
       "asset": "fr.zip",
-      "bytes": 22443211,
-      "sha256": "7bd265e611f03f87c802583d6c62c3b137d2d7e7a38ff9594d9b2345d5698a0e",
-      "clips": 444
+      "bytes": 21134186,
+      "sha256": "659770f454c18ee276bdb26e6c73e74ac1f24262f480c720e70e2d0503a83518",
+      "clips": 429
     },
     "pt-BR": {
       "asset": "pt-BR.zip",
-      "bytes": 23187484,
-      "sha256": "1ea0da7ba439af998f99b80eee35092dfbd174da99bc961d241fbbc96763c5f5",
-      "clips": 444
+      "bytes": 21865922,
+      "sha256": "37193e16d97b6169c43beb76c80e250d82cd34e1d5277a3cf563f27b8fe25fab",
+      "clips": 429
     },
     "pt-PT": {
       "asset": "pt-PT.zip",
-      "bytes": 23182044,
-      "sha256": "720e1c4d579ee25692cf9727e9d31676e2fc0287958dbe111fa610bcdbc8907c",
-      "clips": 444
+      "bytes": 21872392,
+      "sha256": "58bd0dac0bc253c8279ffe8bb23079ede6aa4a28aa4a6c13ab9779af1e621a4c",
+      "clips": 429
     },
     "de": {
       "asset": "de.zip",
-      "bytes": 23218606,
-      "sha256": "a27c8fa115d4c8acf641e3bff9f5129ebad0b9b3ffc9088797ef2c5cd07f13bf",
-      "clips": 444
+      "bytes": 21917316,
+      "sha256": "829dc1a36868dea8aa6813351a84db4b3339043b969d8b514c119c0546ccd55b",
+      "clips": 429
     },
     "ja": {
       "asset": "ja.zip",
-      "bytes": 25825209,
-      "sha256": "720394b47bf83d051ca848805afd85a50ee525beb53b98d9a2b6cbfa11aff678",
-      "clips": 444
+      "bytes": 24255590,
+      "sha256": "d734d2b85854da51dceb6d4c6effc91f0fce91d329ea634b6c064f924271a82d",
+      "clips": 429
     },
     "it": {
       "asset": "it.zip",
-      "bytes": 23657465,
-      "sha256": "0ed4e44765a16360819cc40c20e5c682556ca2d6d978c1a885d357b0986e8b20",
-      "clips": 444
+      "bytes": 22327335,
+      "sha256": "edf7ca3dda9fd7ec23b4f456b4d724f6138551d55b1cd3c62b02e997c3ed1575",
+      "clips": 429
     }
   }
 }
