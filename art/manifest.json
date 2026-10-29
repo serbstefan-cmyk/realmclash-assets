@@ -2,8 +2,8 @@
   "packs": {
     "beast": {
       "asset": "beast.zip",
-      "bytes": 2354440,
-      "sha256": "5b22f1951a61d02a4762552423f7c952b40c706524b9f7ab3677b9b475318318",
+      "bytes": 2420968,
+      "sha256": "c74af4c645bebdc84779dc52083386b9f0d0230dd77c8ff08831ab07823020b3",
       "files": 34
     },
     "demon": {
@@ -56,8 +56,8 @@
     },
     "sorcerer": {
       "asset": "sorcerer.zip",
-      "bytes": 2443770,
-      "sha256": "4162082b21e5a493ef5bad96f137efefbbf602727c6f767b07120ca864782c1f",
+      "bytes": 2528312,
+      "sha256": "74e6f08a56b8e7530c2996fc3c9233eab2b82cfb0bcc50c3d62f9538f7e68eaf",
       "files": 32
     },
     "undead": {
